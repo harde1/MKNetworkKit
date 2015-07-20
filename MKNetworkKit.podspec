@@ -41,7 +41,7 @@ s.osx.exclude_files = '**/*UIAlertView*'
 
 
   s.source_files  = "MKNetworkKit", "MKNetworkKit/*.{h,m}"
-  s.exclude_files = "MKNetworkKit/Categories/*.{h,m}"
+  s.exclude_files = "MKNetworkKit/Categories/*.{h,m}","MKNetworkKit/Reachability/*.{h,m}"
 
   
 
