@@ -75,7 +75,7 @@
 #import "Categories/NSAlert+MKNetworkKitAdditions.h"
 #endif
 
-#import "Reachability/MyReachability.h"
+#import "MyReachability.h"
 
 #import "MKNetworkOperation.h"
 #import "MKNetworkEngine.h"
